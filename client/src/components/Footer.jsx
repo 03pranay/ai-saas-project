@@ -10,9 +10,7 @@ const Footer = () => {
                 <path d="m8.75 11.3 6.75 3.884 6.75-3.885M8.75 34.58v-7.755L2 22.939m27 0-6.75 3.885v7.754M2.405 15.408 15.5 22.954l13.095-7.546M15.5 38V22.939M29 28.915V16.962a2.98 2.98 0 0 0-1.5-2.585L17 8.4a3.01 3.01 0 0 0-3 0L3.5 14.377A3 3 0 0 0 2 16.962v11.953A2.98 2.98 0 0 0 3.5 31.5L14 37.477a3.01 3.01 0 0 0 3 0L27.5 31.5a3 3 0 0 0 1.5-2.585" stroke="#4F39F6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
             <p className="mt-6 text-sm">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+               "Quick AI is an AI SaaS platform that enables article and blog generation, blog title creation, image background removal, image generation, object removal, resume review, and more – all powered by advanced AI technologies."
             </p>
         </div>
         <div className="flex-1 flex items-start md:justify-end gap-20">
